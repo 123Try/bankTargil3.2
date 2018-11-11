@@ -16,6 +16,8 @@ public class testBank {
 		ga.withDraw(20);
 		System.out.println(ra);
 		System.out.println(ga);
+		System.out.println(ga);
+
 		
 	}
 }
