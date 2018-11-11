@@ -17,6 +17,7 @@ public class testBank {
 		System.out.println(ra);
 		System.out.println(ga);
 		System.out.println(ga);
+		System.out.println(ga);
 
 		
 	}
